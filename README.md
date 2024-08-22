@@ -11,6 +11,13 @@ In dieser Bewerbung geht es darum, deine Fähigkeiten im Bereich der Minecraft-P
 
 In den folgenden Aufgaben wirst du deine Fähigkeiten in den Bereichen Plugin-Entwicklung, API-Design, Datenbank-Integration und In-Memory-Datenverarbeitung unter Beweis stellen. Jede Aufgabe ist darauf ausgelegt, dich herauszufordern und dir die Möglichkeit zu geben, sauberen, performanten und gut strukturierten Code zu schreiben.
 
+## Hinweise zur Codequalität 
+
+Bitte achte darauf, in deiner Implementierung stets aktuelle und nicht veraltete (deprecated) Methoden zu verwenden. Dies gewährleistet nicht nur die langfristige Wartbarkeit des Codes, sondern stellt auch sicher, dass dein Plugin auf zukünftigen Versionen der Minecraft-API problemlos funktioniert.
+
+Für die Anzeige von Nachrichten an Spieler möchten wir dich bitten, ausschließlich die [**Adventure API**](https://docs.advntr.dev/) zu verwenden. Insbesondere solltest du Nachrichten mit [**Components**](https://docs.advntr.dev/text.html) oder [**MiniMessage**](https://docs.advntr.dev/minimessage/index.html) formatieren, um eine flexible und moderne Darstellung zu gewährleisten.
+
+
 ### Aufgabenübersicht
 
 ### [Aufgabe 1](https://github.com/HunterTagOG/Bewerbungsaufgaben-LocoBroko/blob/main/Aufgabe_1.md:) VeloCity Plugin mit einem Command `/broadcast`
