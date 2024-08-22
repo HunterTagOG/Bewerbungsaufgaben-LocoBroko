@@ -13,7 +13,7 @@ In den folgenden Aufgaben wirst du deine Fähigkeiten in den Bereichen Plugin-En
 
 ### Aufgabenübersicht
 
-### Aufgabe 1: VeloCity Plugin mit einem Command `/broadcast`
+### [Aufgabe 1](https://github.com/HunterTagOG/Bewerbungsaufgaben-LocoBroko/blob/main/Aufgabe_1.md:) VeloCity Plugin mit einem Command `/broadcast`
 
 **Ziel:**  
 Erstelle ein VeloCity-Plugin, das es ermöglicht, eine Nachricht an alle verbundenen Server zu senden. Dieser globale Broadcast-Befehl `/broadcast <nachricht>` soll für die Kommunikation innerhalb des Netzwerks genutzt werden.
@@ -23,7 +23,7 @@ Erstelle ein VeloCity-Plugin, das es ermöglicht, eine Nachricht an alle verbund
 - Nachrichtenversand an mehrere Server
 - Konfigurierbare Nachrichtenvorlagen
 
-### Aufgabe 2: Eine Simple CoinAPI
+### [Aufgabe 2](https://github.com/HunterTagOG/Bewerbungsaufgaben-LocoBroko/blob/main/Aufgabe_2.md:) Eine Simple CoinAPI
 
 **Ziel:**  
 Entwickle eine flexible API zur Verwaltung von Ingame-Währungen. Die CoinAPI soll es ermöglichen, Coins für Spieler zu setzen, abzurufen, hinzuzufügen und zu entfernen. Die Währung des Systems soll über eine Konfigurationsdatei anpassbar sein.
@@ -33,7 +33,7 @@ Entwickle eine flexible API zur Verwaltung von Ingame-Währungen. Die CoinAPI so
 - Speicherung und Abruf von Spieler-Coin-Daten
 - Konfigurationsdateien für anpassbare Systeme
 
-### Aufgabe 3: Einfache Datenbank-Verbindung mit HikariCP
+### [Aufgabe 3](https://github.com/HunterTagOG/Bewerbungsaufgaben-LocoBroko/blob/main/Aufgabe_3.md:) Einfache Datenbank-Verbindung mit HikariCP
 
 **Ziel:**  
 Implementiere eine performante Datenbanklösung zur Speicherung und Verwaltung von Spielerdaten. Verwende HikariCP für das Connection Pooling und stelle sicher, dass die Verbindungseinstellungen über eine Konfigurationsdatei gesteuert werden können.
@@ -43,7 +43,7 @@ Implementiere eine performante Datenbanklösung zur Speicherung und Verwaltung v
 - Speichern und Laden von Daten in einer MySQL-Datenbank
 - Umgang mit Konfigurationsdateien für Datenbankverbindungen
 
-### Aufgabe 4: Speicherung von Nutzerdaten im Speicher
+### [Aufgabe 4](https://github.com/HunterTagOG/Bewerbungsaufgaben-LocoBroko/blob/main/Aufgabe_4.md:) Speicherung von Nutzerdaten im Speicher
 
 **Ziel:**  
 Entwickle eine Methode zur effizienten Speicherung von Nutzerdaten (UUID, Name, FirstJoinDatum) im Arbeitsspeicher. Diese Daten sollen für schnelle Zugriffszeiten und eine reibungslose Spielerfahrung verwendet werden.
