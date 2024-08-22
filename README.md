@@ -5,7 +5,7 @@
 # LocoBroko Development Bewerbung
 
 Willkommen zur LocoBroko Development Bewerbung! 🚀  
-In dieser Challenge geht es darum, deine Fähigkeiten im Bereich der Minecraft-Plugin-Entwicklung auf die Probe zu stellen. Wir bei LocoBroko sind stets auf der Suche nach talentierten Entwicklern, die uns helfen können, unser Netzwerk zu verbessern und innovative Lösungen für unsere Community zu entwickeln. Diese Herausforderung besteht aus vier spannenden Aufgaben, die verschiedene Aspekte der Plugin-Entwicklung abdecken.
+In dieser Bewerbung geht es darum, deine Fähigkeiten im Bereich der Minecraft-Plugin-Entwicklung auf die Probe zu stellen. Wir bei LocoBroko sind stets auf der Suche nach talentierten Entwicklern, die uns helfen können, unser Netzwerk zu verbessern und innovative Lösungen für unsere Community zu entwickeln. Diese Herausforderung besteht aus vier spannenden Aufgaben, die verschiedene Aspekte der Plugin-Entwicklung abdecken.
 
 ## Worum geht's?
 
