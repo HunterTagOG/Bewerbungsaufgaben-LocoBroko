@@ -1,4 +1,4 @@
-### Testaufgabe 1: VeloCity Plugin mit einem Command `/broadcast`
+### Aufgabe 1: VeloCity Plugin mit einem Command `/broadcast`
 
 #### Aufgabe
 Wir, das LocoBroko Netzwerk, möchten unsere Kommunikationsmöglichkeiten verbessern, indem wir einen globalen Broadcast-Befehl einführen, der Nachrichten an alle verbundenen Server sendet. Deine Aufgabe ist es, ein VeloCity-Plugin zu entwickeln, das einen solchen Befehl `/broadcast <nachricht>` bereitstellt.
